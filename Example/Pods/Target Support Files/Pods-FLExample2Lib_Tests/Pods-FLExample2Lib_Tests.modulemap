@@ -1,0 +1,6 @@
+framework module Pods_FLExample2Lib_Tests {
+  umbrella header "Pods-FLExample2Lib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

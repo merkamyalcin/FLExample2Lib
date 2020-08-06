@@ -1,0 +1,16 @@
+PODS:
+  - FLExample2Lib (0.1.0)
+
+DEPENDENCIES:
+  - FLExample2Lib (from `../`)
+
+EXTERNAL SOURCES:
+  FLExample2Lib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FLExample2Lib: 59c4cbc0c9b60d3910b7a22fb9e9d987e2ee9906
+
+PODFILE CHECKSUM: 0eb2b8d46ef2e94ac17d69879069671cf6133a21
+
+COCOAPODS: 1.8.4

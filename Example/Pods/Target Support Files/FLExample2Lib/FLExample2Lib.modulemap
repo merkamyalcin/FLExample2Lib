@@ -1,0 +1,6 @@
+framework module FLExample2Lib {
+  umbrella header "FLExample2Lib-umbrella.h"
+
+  export *
+  module * { export * }
+}
